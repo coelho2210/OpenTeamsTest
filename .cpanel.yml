@@ -1,21 +1,19 @@
+---
 deployment:
   tasks:
-    - export DEPLOYPATH=${HOME}/public_html/OpenTeamsTest
+    - export REPOPATH=${HOME}/public_html/OpenTeamsTest
     - echo "Deployment started."
+
+    # Step 1: Navigate to the repository path
+    - cd ${REPOPATH}
     
-    # Step 1: Pull latest changes from the repository
-    - /usr/bin/git pull
-    
-    # Step 2: Install dependencies if needed (e.g., for a Node.js project)
-    # Uncomment and modify the following lines as per your project's requirements
-    #- cd ${DEPLOYPATH}
-    #- /opt/cpanel/ea-nodejs16/bin/npm install
-    
-    # Step 3: Build the project if required (e.g., for a React/Vue/Angular project)
-    # Uncomment and modify the following lines as per your project's requirements
-    #- /opt/cpanel/ea-nodejs16/bin/npm run build
-    
-    # Step 4: Copy files to the deployment directory
-    - rsync -av --delete ${HOME}/OpenTeamsTest/ ${DEPLOYPATH}/
-    
+    # Step 2: Add changes to the git staging area
+    - /usr/bin/git add .
+
+    # Step 3: Commit changes with a message
+    - /usr/bin/git commit -m "Automated commit via cPanel deployment"
+
+    # Step 4: Push changes back to the origin repository
+    - /usr/bin/git push origin main
+
     - echo "Deployment completed."
