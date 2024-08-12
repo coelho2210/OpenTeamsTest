@@ -1,0 +1,144 @@
+[10-Jul-2024 22:34:05 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '11,16,5,11,16,5')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:05 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '20,14,25,15,13,...')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:05 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '17,22,19,17,22,...')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:06 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '11,16,5,11,16,5')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:11 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '17,22,19,17,22,...')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:11 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '11,16,5,11,16,5')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:12 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '17,22,19,17,22,...')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:12 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '20,14,25,15,13,...')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:13 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '11,16,5,11,16,5')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:13 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '17,22,19,17,22,...')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:13 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '20,14,25,15,13,...')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201
+[10-Jul-2024 22:34:14 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(2201): array_map('absint', '17,22,19,17,22,...')
+#1 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#2 /home2/rfpopen88/public_html/wp-includes/class-wp-query.php(3956): WP_Query->query(Array)
+#3 /home2/rfpopen88/public_html/wp-admin/includes/ajax-actions.php(3074): WP_Query->__construct(Array)
+#4 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(324): wp_ajax_query_attachments('')
+#5 /home2/rfpopen88/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /home2/rfpopen88/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/rfpopen88/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_query-a...')
+#8 {main}
+  thrown in /home2/rfpopen88/public_html/wp-includes/class-wp-query.php on line 2201

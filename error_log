@@ -1,0 +1,36 @@
+[10-Jul-2024 18:32:14 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:14 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:15 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:20 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:20 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:20 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:20 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:20 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:21 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:21 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:22 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:22 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:22 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:22 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:22 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:22 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:23 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:23 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:23 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:23 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:23 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[10-Jul-2024 18:32:24 UTC] PHP Warning:  Undefined variable $parent_post_id in /home2/rfpopen88/public_html/wp-content/plugins/pagelayer/main/functions.php on line 2816
+[11-Jul-2024 18:34:42 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[11-Jul-2024 18:34:42 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[15-Jul-2024 15:03:43 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/rfpopen88/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/rfpopen88/public_html/wp-settings.php on line 33
+[18-Jul-2024 19:53:20 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[18-Jul-2024 19:53:20 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[25-Jul-2024 18:58:14 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[25-Jul-2024 18:58:14 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[01-Aug-2024 21:51:42 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[01-Aug-2024 21:51:42 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
+[08-Aug-2024 18:45:18 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 61
+[08-Aug-2024 18:45:18 UTC] PHP Warning:  Undefined property: stdClass::$publish in /home2/rfpopen88/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/newfold-labs/wp-module-data/includes/Listeners/Commerce.php on line 77
